@@ -3,7 +3,7 @@
 
 ## Why am I choosing this topic
 
-The topic I decided on for this project is the drawing industry due to the fact that it grabbed my interest cause how people caused new tool or method to improve the efficiency and quality of the draw. Also, drawing do Provide help a Powerful Learning Tool([Using drawing as a powerful learning ])(https://www.edutopia.org/article/drawing-tool-learning/) b
+The topic I decided on for this project is the drawing industry due to the fact that it grabbed my interest cause how people caused new tool or method to improve the efficiency and quality of the draw. Also,[Using drawing as a powerful learning ])(https://www.edutopia.org/article/drawing-tool-learning/) 
 
 ## Engineering Design Process
 
