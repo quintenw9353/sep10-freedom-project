@@ -3,31 +3,27 @@
 
 ## Why am I choosing this topic
 
-The topic I decided on for this project is the drawing industry due to the fact that it grabbed my interest cause how people caused new tool or method to improve the efficiency and quality of the draw. Also, [Using drawing as a powerful learning ](https://www.edutopia.org/article/drawing-tool-learning/) 
+The topic I decided on for this project is the drawing industry due to the fact that it grabbed my interest cause how people caused new tool or method to improve the efficiency and quality of the draw. Also, I find sources was interesting that share the same idea as me which was[Using drawing as a powerful learning ](https://www.edutopia.org/article/drawing-tool-learning/) by Selim Tlili. After, go seeing through the source myself It supports more of my idea of drawing and can help learning and show how creative draw is. Plus, technology also plays an important role in how it changes the method to draw like online with more tools to draw more complex drawing.
 
 ## Engineering Design Process
 
-I am currently in the first stage of the engineering design process, where the main goal is to define the problem. The problem that I hope to solve with my project is that **people are not informed about the world of technology in visual art**. The next stage is to research the problem and I plan to use not only articles and websites, but to also talk to my peers and those around me to discuss the issue and gain their input on the situation. 
+I am currently in the first stage of the engineering design process, where our main goal was to solve different issues in the code for websites by seeing into the element. But, I still want to make the drawing industry more influenced and more interested toward other people.
 
 ## Skills
 
-Some skills that I’ve learned from working on this blog are **time management**, **how to google**, and **communication**. 
+Some skills that I’ve learned from working on this blog are **time management** and **googling things**. 
 
 #### Time management
 
-I have several commitments outside of school, such as picking up my brother from school every day, being on a swim team, and being in a gaming club two days a week. But my workload at school is becoming busier, so I needed to make more time for this project as well as my history class. So I decided to cut back from two days of gaming club per week to just one day per week. I think this change will help moving forward.
+In the past, I spend a lot of my time after school with friend and don't pay to many attention to my work project as time go pass I realizes I need to cut out my time with friend and give more time to my work and project as they are also important. So, I keep in mind to do time management more often to improve the skill as it is an important skill to use in high school.
 
-#### How to Google
+#### Googling things
 
-When I Googled _visual arts technology_, obviously I'm not going to look through all 608 million results. But skimming the titles and descriptions was helpful, as I wasn't really concerned with college degrees or Instagram accounts. Instead, seeing titles of articles like ["How Technology is Changing Visual Art"](https://www.nytimes.com/2018/05/30/technology/personaltech/technology-visual-art.html) was more along the lines of what I wanted to find. Plus, changing my search from _visual arts technology_ to _visual arts technology innovations_ also filtered the results down to what I wanted to find.
+When I was drawing I always want inspiration from real world but I can't travel to the whole world but I always googling these image to inspiration myself to draw what I think the image will look like in my mind as inspiration was a important thing to drawing so googling help me to the inspiration I want.
 
-#### Communication
+## Next steps in the Future
 
-Communication was another important skill I have developed. Since I’m working on this project with another person, it’s important to collaborate and talk to one another. At first, we were doing our own searches and not sharing what we found. But finally we made a collaborative Google Doc where we could compile the links we found interesting as an efficient way to share what we found. We plan to check-in with each other at least once a week about the project, probably on Sunday afternoons.
-
-## Next steps
-
-I look forward to researching the existing innovations in visual arts
+I look forward to researching interest inspiration when drawing and interesting facts about the drawing industry in the world and how others view it.
 
 [Next](entry02.md)
 
