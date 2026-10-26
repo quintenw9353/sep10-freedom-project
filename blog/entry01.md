@@ -1,13 +1,13 @@
-# Entry 1: My Topic (drawing industry)
+# Entry 1: My Topic (drawing)
 ##### 10/25/26
 
 ## Why am I choosing this topic
 
-The topic I decided on for this project is the drawing industry due to the fact that it grabbed my interest cause how people caused new tool or method to improve the efficiency and quality of the draw. Also, I find sources was interesting that share the same idea as me which was[Using drawing as a powerful learning ](https://www.edutopia.org/article/drawing-tool-learning/) by Selim Tlili. After, go seeing through the source myself It supports more of my idea of drawing and can help learning and show how creative draw is. Plus, technology also plays an important role in how it changes the method to draw like online with more tools to draw more complex drawing.
+The topic I decided on for this project is the drawing due to the fact that it grabbed my interest cause how people caused new tools or methods to improve the efficiency and quality of the draw. Also, I find sources was interesting that share the same idea as me which was[Using drawing as a powerful learning ](https://www.edutopia.org/article/drawing-tool-learning/) by Selim Tlili. After, go seeing through the source myself It supports more of my idea of drawing and can help learning and show how creative draw is. Plus, technology also plays an important role in how it changes the method to draw like online with more tools to draw more complex drawing.
 
 ## Engineering Design Process
 
-I am currently in the first stage of the engineering design process, where our main goal was to solve different issues in the code for websites by seeing into the element. But, I still want to make the drawing industry more influenced and more interested toward other people.
+I am currently in the first stage of the engineering design process, where our main goal was to solve different issues in the code for websites by seeing into the element. But, I still want to make the drawing more influenced and more interesting toward other people.
 
 ## Skills
 
