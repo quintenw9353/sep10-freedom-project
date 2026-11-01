@@ -4,7 +4,7 @@ Topic: **Drawing**
 ## Overview/Introduction/Context
 * Text
 * Text
-<img src="computer.jpeg">
+<img src="computer.png">
 ## Part A: existing technology
 
 ##### Software
