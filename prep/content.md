@@ -23,6 +23,10 @@ Topic: **Drawing**
  technologies for digital drawing. It offers excellent portability, precise
  control, and pressure sensitivity, allowing artists to create detailed work
  anywhere while still supporting other everyday uses.
+
+
+<img width="450" height="450" alt="87865" src="https://github.com/user-attachments/assets/1252607a-b338-41ac-9848-62b64fa996ae" />
+
 * Computer
  * Computers form a core part of modern digital life. While they already
  perform adequately, other current technologies exist that operate even
@@ -33,7 +37,6 @@ Topic: **Drawing**
 
 
 
-<img width="450" height="450" alt="87865" src="https://github.com/user-attachments/assets/1252607a-b338-41ac-9848-62b64fa996ae" />
 
 ## Part B: Possible Future Technology
 * Rapidly advancing machines designed to print materials
