@@ -16,6 +16,7 @@ Topic: **Drawing**
  various projects.
 
 <img width="678" height="452" alt="computer" src="https://github.com/user-attachments/assets/d56f2b34-8eca-4464-bfc3-2bb11e358f56" />
+
 ### Hardware
 * iPad with Apple Pencil
  * The iPad paired with an Apple Pencil stands out among existing
