@@ -7,18 +7,20 @@ Topic: **Drawing**
 
 * When used with technology, digital tools, or traditional physical
  materials, drawing generally brings more benefits than drawbacks.
-## Part A: Existing Technology
-### Software
-* 
- * 
+## Part A: existing technology
+##### Software
+* ibispaint
+* The app consists in many uses for
+artists to benefit from their drawing and in digital
+technology, this helps them have more features and lets them have the way to do more use in digital rather than traditional.
+* A handful of people use this app as it helps many artists through reference and its main skill digitally and use it in the real world with its ideas and inspiration.
+* In this app, a lot has been taken into consideration that it is much better than most of the apps shown on software and so this is a very low budget with ads that helps people have their own custom style drawing and more.
+* It uses many people's artists to draw many artists'attention to how good it is within the digital art world.
+<img width="512" height="512" alt="unnamed" src="https://github.com/user-attachments/assets/3edc34aa-f83f-4a6e-a84f-313f144283a3" />
 
+##### Hardware
+* iPad with Apple Pencil
 
-### Hardware
-* Apple Pencil
-  * Apple  
-
-
-* iPad
  * The iPad paired with an Apple Pencil stands out among existing
  technologies for digital drawing.
  * It offers excellent portability, precise
@@ -26,19 +28,9 @@ Topic: **Drawing**
  anywhere
  * While still supporting other everyday uses.
  * As the iPad with Apple Pencil doesn't require internet and it only needs to connect to the bluetooth.
+* It's very cheap and less broken, easily having a bigger technology rather than having a small device that is easy to use and not to break that isn't expensive.
 
-
-<img width="450" height="450" alt="87865" src="https://github.com/user-attachments/assets/1252607a-b338-41ac-9848-62b64fa996ae" />
-
-* Computer
- * Computers form a core part of modern digital life. While they already
- perform adequately, other current technologies exist that operate even
- more quickly and efficiently, especially when building websites or handling
- various projects.
-
-<img width="678" height="452" alt="computer" src="https://github.com/user-attachments/assets/d56f2b34-8eca-4464-bfc3-2bb11e358f56" />
-
-
+<img width="678" height="452" alt="computer" src="https://github.com/user-attachments/assets/0c5298d6-9f49-48c0-9d7c-cad8d7c57e82" />
 
 
 ## Part B: Possible Future Technology
