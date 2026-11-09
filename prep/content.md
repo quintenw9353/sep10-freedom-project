@@ -9,6 +9,8 @@ Topic: **Drawing**
  materials, drawing generally brings more benefits than drawbacks.
 ## Part A: existing technology
 ##### Software
+* I order it in free to not free
+
 * ibispaint
 * The app consists in many uses for
 artists to benefit from their drawing and in digital
@@ -19,6 +21,8 @@ technology, this helps them have more features and lets them have the way to do 
 <img width="512" height="512" alt="unnamed" src="https://github.com/user-attachments/assets/3edc34aa-f83f-4a6e-a84f-313f144283a3" />
 
 ##### Hardware
+* I order in quick understanding to hard understand.
+
 * iPad with Apple Pencil
 
  * The iPad paired with an Apple Pencil stands out among existing
