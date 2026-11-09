@@ -30,7 +30,8 @@ technology, this helps them have more features and lets them have the way to do 
  * As the iPad with Apple Pencil doesn't require internet and it only needs to connect to the bluetooth.
 * It's very cheap and less broken, easily having a bigger technology rather than having a small device that is easy to use and not to break that isn't expensive.
 
-<img width="678" height="452" alt="computer" src="https://github.com/user-attachments/assets/0c5298d6-9f49-48c0-9d7c-cad8d7c57e82" />
+
+<img width="450" height="450" alt="87865" src="https://github.com/user-attachments/assets/0b8565d3-85a3-4751-8c65-d980b9b823a0" />
 
 
 ## Part B: Possible Future Technology
