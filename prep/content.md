@@ -62,3 +62,4 @@ technology, this helps them have more features and lets them have the way to do 
 * Rapidly advancing machines designed to print materials
 * Such machines can produce the materials people need, making it simpler
  to obtain supplies for construction projects or other creative endeavors.
+* drawing AI that give Advice when drawing or give model or give model to people to draw.
