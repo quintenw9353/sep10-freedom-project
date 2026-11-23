@@ -8,7 +8,7 @@ I began researching sources such as [“Video Production NYC](https://www.johnny
 
 ## Engineering Design Process
 
-I am currently in the early stages of the software engineering design process (EDP). In this process, we work on solving different issues related to HTML elements for websites. My goal is to make the content clear and useful for understanding video production—its benefits and its effects—through well-designed websites.
+I am currently in the early stages of the software engineering design process (EDP). In this process, we work on solving different issues related to HTML elements for websites. My goal is to make the content clear and useful for understanding video production its benefits and its effects through well designed websites.
 
 ## Skills
 
