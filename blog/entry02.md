@@ -4,7 +4,7 @@
 ## Choosing a Topic
 
 I chose video production as my topic because I’m genuinely passionate about it and how much it contributes to videos and movies. It was also one of the options for my second entry, and I found it interesting to learn about how things are produced and what happens behind the scenes. I wanted to explore something that connects to the world outside of everyday society, so I selected this topic for the project.
-I began researching sources such as “Video Production NYC” by John, which offers interesting insights into how the video production industry influences media content. Another useful source was the “Video Production Guide” by Amazon, which shows the benefits of the field and further convinced me to focus on this topic for my second entry.
+I began researching sources such as [“Video Production NYC](https://www.johnnypuetz.com/)” by John, which offers interesting insights into how the video production industry influences media content. Another useful source was the “[Video Production Guide](https://www.amazon.com/Best-Sellers-Kindle-Store-Video-Direction-Production/zgbs/digital-text/156297011)” by Amazon, which shows the benefits of the field and further convinced me to focus on this topic for my second entry.
 
 ## Engineering Design Process
 
